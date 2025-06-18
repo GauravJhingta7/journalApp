@@ -1,0 +1,12 @@
+com\edigest\myProject\config\SpringSecurity.class
+com\edigest\myProject\entity\JournalEntry.class
+com\edigest\myProject\Journal.class
+com\edigest\myProject\controller\UserController.class
+com\edigest\myProject\service\JournalEntryService.class
+com\edigest\myProject\entity\User.class
+com\edigest\myProject\service\UserDetailServiceImpl.class
+com\edigest\myProject\controller\JournalEntryController.class
+com\edigest\myProject\controller\PublicController.class
+com\edigest\myProject\repository\JournalEntryRepo.class
+com\edigest\myProject\repository\UserRepo.class
+com\edigest\myProject\service\UserService.class
